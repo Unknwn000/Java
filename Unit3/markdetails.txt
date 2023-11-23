@@ -1,0 +1,7 @@
+Iron Man,80
+Captain America,66
+Thor,70
+Vision,42
+HawkEye,60
+Thanos,75
+Bhupinder Jogi,100
