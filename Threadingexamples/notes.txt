@@ -1,0 +1,4 @@
+cmd tips and tricks 
+edit the file path to directly open cmd regarding the file 
+Then use tab to access file names 
+
